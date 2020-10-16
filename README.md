@@ -2,6 +2,8 @@
 ON SOPT(27기 SOPT) 안드로이드 파트 필수 과제/성장 과제 제출 Repository입니다.
 
 ## 1주차 과제
+### 종료 시점
+2020/10/10 (토)
 ### 화면 캡쳐
 <img src="https://user-images.githubusercontent.com/54518925/96276106-8829eb80-100d-11eb-8b71-b6c5e0c6e1a5.png" width = "40%"/>
 <img src="https://user-images.githubusercontent.com/54518925/96276117-8c560900-100d-11eb-9003-85cebc833385.png" width = "40%"/>
